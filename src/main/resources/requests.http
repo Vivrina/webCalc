@@ -1,0 +1,13 @@
+GET localhost:8080/calculate/1/plus/2
+###
+GET localhost:8080/calculate/5/minus/3
+###
+GET localhost:8080/calculate/2/multiply/7
+###
+GET localhost:8080/calculate/9/divide/3
+###
+GET localhost:8080/calculate/1/divide/0
+###
+GET localhost:8080/calculate/kek/divide/2
+###
+GET localhost:8080/calculate/1/dfsf/2
